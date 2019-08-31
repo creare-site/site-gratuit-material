@@ -1,38 +1,46 @@
-# [JAMstack Material Kit](https://jamstack-material-kit.appseed.us)
+# [Site Gratuit Material Kit](https://site-gratuit-material.websitemarket.ro/)
 
-Blazing fast application coded in [JAMstack](https://jamstack.org/) pattern on top of [Material Kit](https://demos.creative-tim.com/material-kit/) design.
-
-<br />
-
-![JAMstack Material Kit - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/jamstack-material-kit-intro.gif?raw=true)
+Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
-## App Links
-
-- [JAMstack Material Kit demo](https://jamstack-material-kit.appseed.us/)
+![Site Gratuit Material Kit](https://raw.githubusercontent.com/creare-site/static/master/produse/site-gratuit-material-intro.gif)
 
 <br />
 
-## How to use it
+## Informatii produs
 
-- Clone this repo `git clone https://github.com/app-generator/jamstack-material-kit.git`
-- change directory to `jamstack-material-kit`
-- `yarn` - install deps
-- `yarn start` - live edit
-- `yarn build` - build for production in directory `_site`
-- `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
+- Site de prezentare gratuit, cu design Material Kit
+- Live [DEMO](https://site-gratuit-material.websitemarket.ro)
+ 
+<br />
+
+## Licenta
+
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
-## [JAMstack](https://jamstack.org/) resources
+## Utilizare (pentru dezvoltatori)
 
-- Blog Articles related to [JAMstack](https://blog.appseed.us/tag/jamstack/)
-- [What is JAMstack](https://blog.appseed.us/what-is-jamstack/) - comprehensive article about JAMstack
-- [JAMstack.org](https://jamstack.org/)
-- A curated list with production-ready [JAMstack Apps](https://appseed.us/apps/jamstack)
+Acesta website este o aplicatie JAMstack. Pentru a genera website-ul local urmati instructiunile:
+
+```
+$ git clone https://github.com/creare-site/site-gratuit-material.git
+$ cd site-gratuit-material
+$ yarn # instalare module
+$ yarn start # mod editare live
+$ yarn build # generare site productie
+```
+
+<br />
+
+## Suport
+
+Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https://discord.gg/MFRQmAk)
 
 <br />
 
 ---
-[JAMstack Material Kit](https://jamstack-material-kit.appseed.us) - provided by **AppSeed**
+[Site Gratuit Material Kit](https://site-gratuit-material.websitemarket.ro/) un produs **WebsiteMarket**
