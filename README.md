@@ -1,4 +1,4 @@
-# [Site Gratuit Material Kit](https://site-gratuit-material.websitemarket.ro/)
+# [Site Gratuit Material Kit](https://websitemarket.ro/site-gratuit/material/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -11,7 +11,7 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 ## Informatii produs
 
 - Site de prezentare gratuit, cu design Material Kit
-- Live [DEMO](https://site-gratuit-material.websitemarket.ro)
+- [Site Gratuit Material DEMO](https://site-gratuit-material.websitemarket.ro)
  
 <br />
 
@@ -36,4 +36,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Site Gratuit Material Kit](https://site-gratuit-material.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Gratuit Material Kit](https://websitemarket.ro/site-gratuit/material/) un produs **WebsiteMarket**
